@@ -40,12 +40,8 @@
 	background-color: #006e9d;
 	font-size: 20px;
 	font-weight: 300;
-}
-#home #about #about-logo {
-	background: url(../img/logos/logo-icon-blue.gif) no-repeat;
-    background-size: 75%;
-    background-position: 50% 90%;
-}
+
+
 #home #about #about-inf h2 {
 	font-weight: 500;
 	margin: 0;
